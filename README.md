@@ -21,3 +21,13 @@ Generelles Spielziel ist die Expansion von Menschlichen Siedlungen in das ganze 
 - [Ben Sound](https://www.bensound.com/)
 - [fesliyanstudios](https://www.fesliyanstudios.com/)
 
+# Mermaid sample
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
